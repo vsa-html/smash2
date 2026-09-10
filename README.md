@@ -94,7 +94,7 @@ pip install requests
 ## 📁 Instalasi Git ##
 
 ```bash
-git clone https://github.com/vsa-html/smash-xso.git
+git clone https://github.com/vsa-html/smash2.git
 ```
 
 ---
@@ -102,7 +102,7 @@ git clone https://github.com/vsa-html/smash-xso.git
 ## 📱 Jalankan ##
 
 ```bash
-cd smash-xso
+cd smash2
 python main.py
 ```
 
